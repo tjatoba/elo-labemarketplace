@@ -1,30 +1,63 @@
-### <p align="center">💻 MarketPlace10 - Elo4 💻</p>
+# PORJETO ELO4 MARKETPLACE
 
-<div align="center" margin-bottom="10px">
-  <i>Beatriz Lisboa, Gabriel Dienstmann Musse, Maria Eduarda Auler, Milena Cacau e Thiago Jatobá</i>
-</div> 
-&nbsp
-<p align="center">Link do Surge: http://elo4-marketplace10.surge.sh/</p>
-<p align="center">Link da API: https://documenter.getpostman.com/view/9133542/TVzXDFXL</p>
+![Screen Shot 2021-05-12 at 14 59 03](https://user-images.githubusercontent.com/19447953/118022535-d5b3d000-b332-11eb-890f-9b82ccce490f.png)
 
-### Funcionamento 🛠
+## Objetivo
+Construir a Elo4, uma startup voltada à conexão para a venda de produtos personalizados. Na Elo4, os clientes podem encontrar uma variedade de produtos, como artigos para festas, objetos de decoração, bijuterias, produtos religiosos, enxovais e acessórios eco-friendly.
 
-- [x] Cadastro de produtos
-- [x] Adiciona produtos ao carrinho
-- [x] Remove produtos do carrinho
-- [x] Filtro por preço, loja, nome
-- [x] Ordenação por preço (crescente/descrescente) e alfabética (a-z / z-a)
+## Como visualizar?
+[Elo4 Marketplace](http://elo4-marketplace10.surge.sh/)
 
-### Prints 🎨
+## Desenvolvedores
+Executado em "Remote Pair Programming" por:
+- [Beatriz Lisboa](https://github.com/beatriz-lisboa)
+- [Gabriel Musse](https://github.com/gdmusse)
+- [Maria Eduarda Auler](https://github.com/MaduAuler)
+- [Milena Cacau](https://github.com/milenacacau)
+- [Thiago Jatobá](https://github.com/tjatoba)
 
-![image](https://user-images.githubusercontent.com/77981874/113492812-bbbfdb80-94b0-11eb-88be-f564fef8340e.png)
+## Funcionalidades
+- Cadastro de produtos
+- Adiciona produtos ao carrinho
+- Remove produtos do carrinho
+- Filtro por preço, loja, nome
+- Ordenação por preço (crescente/descrescente) e alfabética (a-z / z-a)
 
-***
+## Dependências
+- React
+- Styled Components
+- Antd
+- React-Router-Dom
+- Axios
 
-![image](https://user-images.githubusercontent.com/77981874/113492822-d72ae680-94b0-11eb-9884-e9f70ce397d1.png)
+<hr></hr>
 
-***
+<div align= 'center'><b>*ENGLISH VERSION*</b></div>
 
-![image](https://user-images.githubusercontent.com/77981874/113492834-eca01080-94b0-11eb-9367-05f1cd9edb30.png)
+## Briefing
+Create a customized MarketPlace.
 
-***
+## Developers
+Performed in "Remote Pair Programming" by:
+- [Beatriz Lisboa](https://github.com/beatriz-lisboa)
+- [Gabriel Musse](https://github.com/gdmusse)
+- [Maria Eduarda Auler](https://github.com/MaduAuler)
+- [Milena Cacau](https://github.com/milenacacau)
+- [Thiago Jatobá](https://github.com/tjatoba)
+
+## How to view?
+[Elo4 Marketplace](http://elo4-marketplace10.surge.sh/)
+
+## Functionalities
+- Product registration.
+- Add products to cart.
+- Remove products from the cart.
+- Filter by price, store, name.
+- Sorting by price (ascending / descending) and alphabetical (a-z / z-a).
+
+## Dependencies
+- React
+- Styled Components
+- Antd
+- React-Router-Dom
+- Axios
