@@ -30,6 +30,12 @@ Executado em "Remote Pair Programming" por:
 - React-Router-Dom
 - Axios
 
+## API
+[Link](https://documenter.getpostman.com/view/9133542/TVzXDFXL)
+
+## KANBAN
+[TRELLO](https://trello.com/b/7MXLHDzU/elo4-marketplace)
+
 <hr></hr>
 
 <div align= 'center'><b>*ENGLISH VERSION*</b></div>
@@ -61,3 +67,9 @@ Performed in "Remote Pair Programming" by:
 - Antd
 - React-Router-Dom
 - Axios
+
+## API
+[Link](https://documenter.getpostman.com/view/9133542/TVzXDFXL)
+
+## KANBAN
+[TRELLO](https://trello.com/b/7MXLHDzU/elo4-marketplace)
